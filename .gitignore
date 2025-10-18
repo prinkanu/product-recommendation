@@ -1,0 +1,14 @@
+"# Python Virtual Environment" 
+venv_new/ 
+.venv/ 
+__pycache__/ 
+ 
+"# Node Modules" 
+/frontend/node_modules 
+/frontend/dist 
+ 
+"# PyTorch/ML Cache" 
+.cache/ 
+ 
+"# Environment Variables (Crucial for Pinecone/GenAI keys)" 
+*.env 
